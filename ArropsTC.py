@@ -1,4 +1,4 @@
-
+#Day1
 # Time Complexities of Array Ops 
 # Initial List
 arr = [4, 6, 9, 3, 7, 2]
