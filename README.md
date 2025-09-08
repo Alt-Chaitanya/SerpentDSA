@@ -21,7 +21,6 @@ I'm using following Modules here.
 - dataclasses
 - sortedcontainers
 - sympy
-- numpy
 - numba
 - cython
 - intervaltree
