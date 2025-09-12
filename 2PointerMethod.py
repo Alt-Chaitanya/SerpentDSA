@@ -4,7 +4,7 @@ arr.sort()
 #2,4,5,22,88,99
 print(arr)
 
-t=110
+t=110 #target value
 
 L=0
 R=len(arr)-1
