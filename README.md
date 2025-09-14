@@ -3,7 +3,7 @@
 Here I'm gonna do DSA using Python and also add some DSA projects as I progress. 
 
 
-I'm using following Modules here. 
+I'll be using following Modules here. 
 
 - collections
 - heapq
