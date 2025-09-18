@@ -2,8 +2,8 @@
 
 Here I'm gonna do DSA using Python and also add some DSA projects as I progress. 
 
-
 I'll be using following Modules here. 
+
 
 - collections
 - heapq
@@ -14,7 +14,6 @@ I'll be using following Modules here.
 - decimal
 - sys
 - io
-- os
 - array
 - typing
 - dataclasses
